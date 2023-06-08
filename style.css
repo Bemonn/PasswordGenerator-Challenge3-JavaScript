@@ -6,6 +6,7 @@
 
 html,
 body,
+/*Wrapping positioning*/
 .wrapper {
   height: 100%;
   margin: 0;
@@ -17,12 +18,14 @@ body {
   background-color: #f9fbfd;
 }
 
+/*Wrapping design*/
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 20px;
 }
 
+/*Header design and style*/
 header {
   text-align: center;
   padding: 20px;
@@ -30,6 +33,7 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+/*Password box, heading and text design and style*/
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -71,7 +75,9 @@ header {
   display: block;
   clear: both;
 }
+/*Password box, heading and text design and style END*/
 
+/*Button colour, design, style and layout*/
 .btn {
   border: none;
   background-color: hsl(360, 91%, 36%);
@@ -96,7 +102,9 @@ button[disabled] {
 .float-right {
   float: right;
 }
+/*Button colour, design, style and layout END*/
 
+/*Password design, colour and layout*/
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -118,6 +126,7 @@ button[disabled] {
   overflow: hidden;
 }
 
+/*Different device/screen size cosmetic and style support*/
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
