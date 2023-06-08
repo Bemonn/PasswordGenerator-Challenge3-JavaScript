@@ -3,14 +3,15 @@
 <h2>Project Description - For bootcamp challenge 3:<h2>
 
 <h3>This repository is a weekly challenge(3) in which we are given the task of making a customisable password generator from a pre-existing code to meet a certain criteria.
-This criteria consists of:
+<h3>This criteria consists of:<h3>
+
 * 8-128 characters
-*Lowercase and Uppercase character choices
-*Numeric choices
-*Special Character choices
-*Validation messages dependant on choice
-*Input validated and at least one of each character type put in password
-*Password is generated and displayed based on selected criteria<h3>
+* Lowercase and Uppercase character choices
+* Numeric choices
+* Special Character choices
+* Validation messages dependant on choice
+* Input validated and at least one of each character type put in password
+* Password is generated and displayed based on selected criteria<h3>
 
 <h3>The above mention criteria is also the functionality for the password Generator<h3>
 
