@@ -32,4 +32,5 @@
 <h2>Website url: https://bemonn.github.io/PasswordGenerator-Challenge3-JavaScript/ <h2>
 
 <h2>Password Generator website in action<h2>
-![Alt text](../../../OneDrive/Pictures/Camera%20Roll/ScreenshotPasswordGenerator.PNG)
+
+![Alt text](Screenshots/ScreenshotPasswordGenerator.PNG)
